@@ -6,3 +6,11 @@
 h1{
     text-align: center;
 }
+
+footer{
+    text-align: center;
+    padding:20px;
+    background-color: rgb(97, 96, 94);
+    color: azure;
+
+}
